@@ -11,7 +11,7 @@ html {
   nav {
     background-color: #111;
     color: white;
-    padding: 20px 50px;
+    padding: 0px 50px;
   }
   
   .navTop {
@@ -54,6 +54,11 @@ html {
     cursor: pointer;
     color: lightgray;
     font-weight: 400;
+  }
+  .menuItem:hover{
+    color: #369e62;
+    text-decoration: underline;
+
   }
   
   .slider {
